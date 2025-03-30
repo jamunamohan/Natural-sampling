@@ -67,7 +67,6 @@ plt.tight_layout()
 plt.show()
 
 OUTPUT WAVEFORM:
-
-![WhatsApp Image 2025-03-30 at 09 44 52_48694d27](https://github.com/user-attachments/assets/720ecd26-93ce-48a2-9040-4ad6769c108e)
+![WhatsApp Image 2025-03-30 at 09 44 52_4f649a55](https://github.com/user-attachments/assets/ce347277-8caa-4eb1-aee9-5fb4c5cc20f3)
 
 RESULTS: Thus the natural sampling waveform was obtained and verified successfully.
